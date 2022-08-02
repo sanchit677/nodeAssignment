@@ -1,0 +1,28 @@
+[{
+        "name": "UMP45",
+        "damage": 45,
+        "dps": 60,
+        "type": "SMG",
+        "remarks": "Greatest SMG out there."
+    },
+    {
+        "name": "AWM",
+        "damage": 79,
+        "dps": 44,
+        "type": "Sniper",
+        "remarks": "The best kind."
+    },
+    {
+        "name": "M24",
+        "damage": 105,
+        "dps": 65,
+        "type": "Sniper",
+        "remarks": "The modern one."
+    },
+    {
+        "name": "Kar98",
+        "damage": 75,
+        "dps": 39,
+        "type": "Sniper",
+        "remarks": "The good old one from WWII."
+}]
